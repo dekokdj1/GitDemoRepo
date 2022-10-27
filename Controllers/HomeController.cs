@@ -13,7 +13,7 @@ public class HomeController : Controller
         _logger = logger;
     }
 
-    //comment for feature-x branch
+    //comment for feature-y branch
     public IActionResult Index()
     {
         return View();
